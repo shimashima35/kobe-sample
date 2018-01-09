@@ -1,0 +1,6 @@
+{
+    "require": {
+        "aaronjan/kobe": "^0.9.8",
+        "phpunit/phpunit": "^6.5"
+    }
+}
